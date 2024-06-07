@@ -26,3 +26,11 @@
    - *DNI:* 47047669
    - *Correo Electrónico:* numasdea@gmail.com
    - *GitHub:* [https://github.com/Numaaaaaaaaa]
+  
+## Detalle de la aplicacion modularizada
+   - Modulo 1 [Descripcion breve]
+   - Modulo 2 [Descripcion breve]
+   - Modulo 3 [Descripcion breve]
+   - Modulo 4 [Descripcion breve]
+
+
