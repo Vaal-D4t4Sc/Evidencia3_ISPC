@@ -1,3 +1,4 @@
+USUARIO
 
 def iniciar_sesion():
     usuario = input("Ingrese su nombre de usuario: ")
