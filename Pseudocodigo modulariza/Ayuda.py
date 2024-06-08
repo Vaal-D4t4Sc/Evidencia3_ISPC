@@ -1,4 +1,4 @@
-AYUDA
+#AYUDA: Contiene la función mostrar_ayuda() para mostrar la ayuda al usuario.
 
 def mostrar_ayuda():
     print("==================================")
