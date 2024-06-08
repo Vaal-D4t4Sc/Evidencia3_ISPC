@@ -1,4 +1,4 @@
-MAIN
+#MAIN: El punto de entrada que llama a la función mostrar_menu() del módulo menu.py.
 
 from menu import mostrar_menu
 
