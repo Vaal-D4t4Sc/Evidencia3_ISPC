@@ -32,9 +32,10 @@ Profesores Julián Conde y Anahí Hernández
    - *GitHub:* [https://github.com/Numaaaaaaaaa]
   
 ## Detalle de la aplicación modularizada
-   - Modulo 1 [Descripcion breve]
-   - Modulo 2 [Descripcion breve]
-   - Modulo 3 [Descripcion breve]
-   - Modulo 4 [Descripcion breve]
+   - Modulo 1 main.py: El punto de entrada que llama a la función mostrar_menu() del módulo menu.py.
+   - Modulo 2 menu.py: Contiene la función mostrar_menu() que muestra el menú y llama a las funciones correspondientes según la elección del usuario.
+   - Modulo 3 usuario.py: Contiene las funciones iniciar_sesion() y registrarse() para manejar las operaciones de usuario.
+   - Modulo 4 musica.py: Contiene la función explorar_musica() para manejar la exploración de música.
+   - Modulo 5 ayuda.py: Contiene la función mostrar_ayuda() para mostrar la ayuda al usuario.
 
 
