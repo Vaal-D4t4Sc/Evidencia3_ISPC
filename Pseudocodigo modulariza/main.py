@@ -1,4 +1,4 @@
-Main.py
+MAIN
 
 from menu import mostrar_menu
 
