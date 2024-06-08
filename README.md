@@ -1,17 +1,13 @@
 # Evidencia3_ISPC
-
 **Asignaturas:**
    
  - Base de Datos I (_Docente/Tutor: Julián Conde_)
     
 - Ética y Deontología Profesional (_Docente/Tutor: Anahí Hernández_)
     
-- Introducción a la Programación (_Docente/Tutor: Julián Conde_)
-
+- Introducción a la Programación (_Docente/Tutor: Julián Conde_)-
 - **Módulo:** - Programador
-
 - **Carrera - Cohorte:** - Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial - Cohorte 2024
-
 - **Institución:** - Instituto Superior Politécnico Córdoba
 
 ## Integrantes del Grupo
