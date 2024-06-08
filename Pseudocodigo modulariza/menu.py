@@ -1,5 +1,4 @@
-MENU
-
+MENU: #Contiene la función mostrar_menu() que muestra el menú y llama a las funciones correspondientes según la elección del usuario.
 
 from user_operations import iniciar_sesion, registrarse
 from music import explorar_musica
