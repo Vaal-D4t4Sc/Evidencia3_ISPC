@@ -11,8 +11,8 @@ CREATE TABLE User (
     FOREIGN KEY (User) REFERENCES User(PlanID)
 );
 
--- Create table user
-CREATE TABLE user (
+-- Create table Cuenta
+CREATE TABLE Cuenta (
     PlanID INT AUTO_INCREMENT PRIMARY KEY
     Subscription VARCHAR(50) NOT NULL,
     Payment VARCHAR(45) NOT NULL,
